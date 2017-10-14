@@ -1,0 +1,1 @@
+copy massiveclock.jpg c:\massiveclock.jpg
